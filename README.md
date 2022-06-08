@@ -13,5 +13,6 @@ python main.py
 Não sabe pegar um token? Vem cá que eu te ensino.
 ## Coletando token
 
-- Go to terminal and run `npm run dev` for development and `npm start` for production.
+- Conecte-se à conta discord e aperte F12 em seu computador.
+- 
     > **NOTE**: When in development mode Some features may not work.
