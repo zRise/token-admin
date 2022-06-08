@@ -17,4 +17,10 @@ Não sabe pegar um token? Vem cá que eu te ensino.
 - Procure pelo nome Application na barra de menus.
 
 ![xd](https://media.discordapp.net/attachments/844281652264173598/984233156104302592/unknown.png)
-    > **NOTE**: When in development mode Some features may not work.
+
+- Procure por Local Storage, https://discord.com e desça o 'rolinho de busca'.
+
+![xd2](https://media.discordapp.net/attachments/844281652264173598/984233533344190515/unknown.png)
+
+- Aperte F5 e, ao atualizar a página irá aparecer uma nova opção com o nome 'token', dê duplo clique sobre ela, Ctrl+C e pronto.
+    > **OBS.**: O Token é único e não pode ser alterado ou deletado, ao menos que delete sua conta, não divulgue seu token para ninguém.
