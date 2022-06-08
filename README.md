@@ -24,3 +24,5 @@ Não sabe pegar um token? Vem cá que eu te ensino.
 
 - Aperte F5 e, ao atualizar a página irá aparecer uma nova opção com o nome 'token', dê duplo clique sobre ela, Ctrl+C e adicione este token no arquivo `tokens.txt` e pronto.
     > **OBS.**: O Token é único e não pode ser alterado ou deletado, ao menos que delete sua conta, não divulgue seu token para ninguém.
+
+![xd3](https://media.discordapp.net/attachments/844281652264173598/984236015688486912/a.jpg)
